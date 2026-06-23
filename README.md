@@ -1,65 +1,59 @@
-# # Projeto de Tecnologia da Informação e Comunicação (PTIC)
+Projeto de Tecnologia da Informação e Comunicação (PTIC)
+Introdução
 
-## Introdução
+A disciplina de Projeto de Tecnologia da Informação e Comunicação (PTIC) tem como objetivo desenvolver projetos tecnológicos que integrem conhecimentos de informática, comunicação, inovação e trabalho em equipe. Os alunos aprendem a planejar, criar e apresentar soluções para problemas reais utilizando a tecnologia.
 
-O Projeto de Tecnologia da Informação e Comunicação (PTIC) é uma disciplina que aborda o uso da tecnologia para criar, gerenciar e compartilhar informações de forma eficiente. Seu objetivo é desenvolver habilidades relacionadas à informática, comunicação digital e resolução de problemas por meio de ferramentas tecnológicas.
+O que é PTIC?
 
-## O que é Tecnologia da Informação e Comunicação?
+PTIC é uma disciplina voltada para o desenvolvimento de projetos, incentivando a criatividade, o pensamento crítico e a aplicação prática dos conhecimentos adquiridos ao longo do curso. Nela, os estudantes trabalham desde a ideia inicial até a implementação e apresentação do projeto.
 
-A Tecnologia da Informação e Comunicação reúne recursos tecnológicos utilizados para processar, armazenar, transmitir e compartilhar informações. Ela está presente no cotidiano das pessoas, empresas, escolas e organizações.
+Principais Conteúdos
+📋 Planejamento de Projetos
 
-## Principais Áreas da PTIC
+Organização de ideias, definição de objetivos, cronogramas e etapas de desenvolvimento.
 
-### Tecnologia da Informação (TI)
-Responsável pelo desenvolvimento e gerenciamento de sistemas, bancos de dados, redes e softwares.
+💻 Tecnologia da Informação
 
-### Comunicação Digital
-Utilização de plataformas digitais para troca de informações, colaboração e interação entre usuários.
+Utilização de ferramentas digitais para criação e gerenciamento de projetos.
 
-### Redes de Computadores
-Conjunto de dispositivos conectados para compartilhar dados e recursos.
+🤝 Trabalho em Equipe
 
-### Segurança da Informação
-Práticas e ferramentas voltadas para proteger dados e sistemas contra acessos não autorizados.
+Desenvolvimento da colaboração, comunicação e divisão de tarefas entre os participantes.
 
-### Desenvolvimento de Software
-Criação de aplicações, sites e sistemas para atender diferentes necessidades.
+🎯 Resolução de Problemas
 
-## Objetivos da Disciplina
+Identificação de desafios e criação de soluções tecnológicas eficientes.
 
-- Compreender o papel da tecnologia na sociedade.
-- Desenvolver o pensamento lógico e a resolução de problemas.
-- Aprender a utilizar ferramentas digitais de forma responsável.
-- Incentivar o trabalho em equipe e a colaboração.
-- Criar projetos utilizando recursos tecnológicos.
+📊 Pesquisa e Análise
 
-## Ferramentas e Tecnologias Utilizadas
+Coleta de informações, análise de dados e levantamento de requisitos para os projetos.
 
-- Computadores e dispositivos móveis
-- Internet
-- Aplicativos de comunicação
-- Plataformas de armazenamento em nuvem
-- Linguagens de programação
-- Softwares de produtividade
+📢 Comunicação e Apresentação
 
-## Importância da PTIC
+Produção de relatórios, apresentações e demonstrações dos projetos desenvolvidos.
 
-A Tecnologia da Informação e Comunicação é fundamental para:
+Ferramentas Utilizadas
+Google Workspace
+Canva
+GitHub
+Visual Studio Code
+Ferramentas de Pesquisa e Planejamento
+Importância do PTIC
 
-- Facilitar a comunicação entre pessoas e organizações.
-- Aumentar a produtividade em diferentes áreas.
-- Apoiar a educação e o aprendizado.
-- Promover a inovação tecnológica.
-- Contribuir para a transformação digital da sociedade.
+A disciplina contribui para o desenvolvimento de habilidades essenciais para o mercado de trabalho, como:
 
-## Benefícios
+Organização e planejamento;
+Trabalho em equipe;
+Comunicação eficiente;
+Criatividade e inovação;
+Resolução de problemas;
+Desenvolvimento de projetos tecnológicos.
+Vantagens
+Aplicação prática dos conhecimentos adquiridos;
+Desenvolvimento de competências profissionais;
+Estímulo à criatividade e inovação;
+Aprimoramento da comunicação e liderança;
+Preparação para desafios do mundo tecnológico.
+Conclusão
 
-- Acesso rápido à informação.
-- Maior conectividade entre pessoas.
-- Automação de tarefas.
-- Melhoria na tomada de decisões.
-- Desenvolvimento de competências digitais.
-
-## Conclusão
-
-O Projeto de Tecnologia da Informação e Comunicação (TIC) permite compreender como a tecnologia influencia a vida moderna e como ela pode ser utilizada para resolver problemas, compartilhar conhecimento e criar soluções inovadoras. A disciplina contribui para a formação de cidadãos mais preparados para os desafios do mundo digital.
+O Projeto de Tecnologia da Informação e Comunicação (PTIC) é fundamental para a formação dos estudantes, pois permite aplicar conhecimentos teóricos em situações reais, desenvolvendo habilidades técnicas e profissionais importantes para a área de tecnologia.
