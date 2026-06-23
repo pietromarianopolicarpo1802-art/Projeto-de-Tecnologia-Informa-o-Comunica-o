@@ -83,6 +83,3 @@ O Projeto de Tecnologia da Informação e Comunicação é uma disciplina essenc
 
 ---
 
-## 👨‍💻 Autor
-
-**Pietro Policarpo**
